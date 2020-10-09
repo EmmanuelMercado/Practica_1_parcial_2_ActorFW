@@ -64,6 +64,15 @@
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 	</Item>
+	<Item Name="ACTUALIZAR GRAFICA.vi" Type="VI" URL="../ACTUALIZAR GRAFICA.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'3!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;R!=!!?!!!Z'C!A5U8215R@15.565&amp;-36J"1ER&amp;,GRW&lt;'FC(#!A5U8215R@15.565&amp;-36J"1ER&amp;,GRW9WRB=X-!'#!A5U8215R@15.565&amp;-36J"1ER&amp;)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!31&amp;1!!QJF&gt;G6O&gt;#"E982B!!";1(!!(A!!/2IA)&amp;.&amp;U5&amp;-8U&amp;$6&amp;6"4%F;15*-23ZM&gt;GRJ9BQA)&amp;.&amp;U5&amp;-8U&amp;$6&amp;6"4%F;15*-23ZM&gt;G.M98.T!"=A)&amp;.&amp;U5&amp;-8U&amp;$6&amp;6"4%F;15*-23"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!)!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!*!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+	</Item>
 	<Item Name="GRAPH DATA.vi" Type="VI" URL="../GRAPH DATA.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(D!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;R!=!!?!!!Z'C!A5U8215R@15.565&amp;-36J"1ER&amp;,GRW&lt;'FC(#!A5U8215R@15.565&amp;-36J"1ER&amp;,GRW9WRB=X-!'#!A5U8215R@15.565&amp;-36J"1ER&amp;)'^V&gt;!!!$U!+!!FG=G6R&gt;76O9XE!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!I!#7&amp;N='RJ&gt;(6E:1"&amp;1"9!"!F4;7ZF)&amp;&gt;B&gt;G5.6(*J97ZH&lt;'5A6W&amp;W:1N4=86B=G5A6W&amp;W:1V498&gt;U&lt;W^U;#"898:F!!NT;7&gt;O97QA&gt;(FQ:1";1(!!(A!!/2IA)&amp;.&amp;U5&amp;-8U&amp;$6&amp;6"4%F;15*-23ZM&gt;GRJ9BQA)&amp;.&amp;U5&amp;-8U&amp;$6&amp;6"4%F;15*-23ZM&gt;G.M98.T!"=A)&amp;.&amp;U5&amp;-8U&amp;$6&amp;6"4%F;15*-23"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!9!"Q!)!!E!#A-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!+!!!!#A!!!!I!!!!+!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

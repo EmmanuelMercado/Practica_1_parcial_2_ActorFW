@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="RECIBIR_PARAMETROS Msg.lvclass" Type="LVClass" URL="../GRAFICAR_SEÑAL_ACTUALIZABLE Messages/RECIBIR_PARAMETROS Msg/RECIBIR_PARAMETROS Msg.lvclass"/>
 		<Item Name="START_STOP Msg.lvclass" Type="LVClass" URL="../GRAFICAR_SEÑAL_ACTUALIZABLE Messages/START_STOP Msg/START_STOP Msg.lvclass"/>
 	</Item>
 	<Item Name="GRAFICAR_SEÑAL_ACTUALIZABLE.lvclass" Type="LVClass" URL="../GRAFICAR_SEÑAL_ACTUALIZABLE/GRAFICAR_SEÑAL_ACTUALIZABLE.lvclass"/>

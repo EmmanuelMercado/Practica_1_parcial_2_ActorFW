@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="ACTUALIZAR GRAFICA Msg.lvclass" Type="LVClass" URL="../../  SEÑAL_ACTUALIZABLE Messages/ACTUALIZAR GRAFICA Msg/ACTUALIZAR GRAFICA Msg.lvclass"/>
 		<Item Name="GRAPH DATA Msg.lvclass" Type="LVClass" URL="../../  SEÑAL_ACTUALIZABLE Messages/GRAPH DATA Msg/GRAPH DATA Msg.lvclass"/>
 	</Item>
 	<Item Name="  SEÑAL_ACTUALIZABLE.lvclass" Type="LVClass" URL="../  SEÑAL_ACTUALIZABLE.lvclass"/>
