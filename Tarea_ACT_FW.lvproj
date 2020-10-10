@@ -11,9 +11,15 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="GENERADOR_FUNCIONES" Type="Folder">
+			<Item Name="  SEÑAL_ACTUALIZABLE.lvlib" Type="Library" URL="../  SEÑAL_ACTUALIZABLE/  SEÑAL_ACTUALIZABLE.lvlib"/>
+			<Item Name="GRAFICAR_SEÑAL_ACTUALIZABLE.lvlib" Type="Library" URL="../GRAFICAR_SEÑAL_ACTUALIZABLE/GRAFICAR_SEÑAL_ACTUALIZABLE.lvlib"/>
+		</Item>
+		<Item Name="CONTEO_DIGITAL" Type="Folder">
+			<Item Name="CONTEO_DIG.lvlib" Type="Library" URL="../CONTEO_DIG/CONTEO_DIG.lvlib"/>
+			<Item Name="CONTADOR_CON_LIMITES.lvlib" Type="Library" URL="../CONTADOR_CON_LIMITES/CONTADOR_CON_LIMITES.lvlib"/>
+		</Item>
 		<Item Name="LAUNCHER.vi" Type="VI" URL="../LAUNCHER.vi"/>
-		<Item Name="  SEÑAL_ACTUALIZABLE.lvlib" Type="Library" URL="../  SEÑAL_ACTUALIZABLE/  SEÑAL_ACTUALIZABLE.lvlib"/>
-		<Item Name="GRAFICAR_SEÑAL_ACTUALIZABLE.lvlib" Type="Library" URL="../GRAFICAR_SEÑAL_ACTUALIZABLE/GRAFICAR_SEÑAL_ACTUALIZABLE.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
