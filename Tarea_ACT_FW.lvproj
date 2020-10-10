@@ -22,6 +22,9 @@
 		<Item Name="GUARDADO_TEXTO_PLANO" Type="Folder">
 			<Item Name="GUARDADOTEXTOPLANO.lvlib" Type="Library" URL="../GUARDADOTEXTOPLANO/GUARDADOTEXTOPLANO.lvlib"/>
 		</Item>
+		<Item Name="GUARDADO_CSV" Type="Folder">
+			<Item Name="GUARDAR_CSV.lvlib" Type="Library" URL="../GUARDAR_CSV/GUARDAR_CSV.lvlib"/>
+		</Item>
 		<Item Name="LAUNCHER.vi" Type="VI" URL="../LAUNCHER.vi"/>
 		<Item Name="FORMAS DE GUARDADO.vi" Type="VI" URL="../GUARDADOTEXTOPLANO/GUARDADOTEXTOPLANO/FORMAS DE GUARDADO.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
