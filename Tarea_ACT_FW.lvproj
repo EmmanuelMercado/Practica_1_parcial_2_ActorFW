@@ -19,7 +19,11 @@
 			<Item Name="CONTEO_DIG.lvlib" Type="Library" URL="../CONTEO_DIG/CONTEO_DIG.lvlib"/>
 			<Item Name="CONTADOR_CON_LIMITES.lvlib" Type="Library" URL="../CONTADOR_CON_LIMITES/CONTADOR_CON_LIMITES.lvlib"/>
 		</Item>
+		<Item Name="GUARDADO_TEXTO_PLANO" Type="Folder">
+			<Item Name="GUARDADOTEXTOPLANO.lvlib" Type="Library" URL="../GUARDADOTEXTOPLANO/GUARDADOTEXTOPLANO.lvlib"/>
+		</Item>
 		<Item Name="LAUNCHER.vi" Type="VI" URL="../LAUNCHER.vi"/>
+		<Item Name="FORMAS DE GUARDADO.vi" Type="VI" URL="../GUARDADOTEXTOPLANO/GUARDADOTEXTOPLANO/FORMAS DE GUARDADO.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
@@ -31,6 +35,11 @@
 				<Item Name="NI_MABase.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MABase.lvlib"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
+				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
+				<Item Name="Write Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (I64).vi"/>
+				<Item Name="Write Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (DBL).vi"/>
+				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
